@@ -1,0 +1,6 @@
+git init
+git clone
+git diff
+git log
+git status
+git checkout
